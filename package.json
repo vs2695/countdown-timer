@@ -1,0 +1,30 @@
+{
+  "name": "multiple-countdown-timers",
+  "version": "1.0.0",
+  "description": "A component that demonstrates the working of multiple countdown timers in the same page using requestAnimationFrame",
+  "keywords": [
+    "raf",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
